@@ -1,0 +1,32 @@
+﻿"New housing price index, monthly 1 2 3 4 5"
+"Frequency: Monthly"
+"Table: 18-10-0205-01 (formerly CANSIM 327-0056)"
+"Release date: 2025-06-20"
+"Geography: Canada, Geographical region of Canada, Province or territory, Census metropolitan area, Census agglomeration"
+""
+""
+
+"Geography","Canada",,,,
+"New housing price indexes","January 2025","February 2025","March 2025","April 2025","May 2025"
+,"Index, 201612=100",,,,
+"Total (house and land)","124.4","124.5","124.5","124.0","123.7"
+"House only","127.3","127.5","127.4","126.7","126.2"
+"Land only","117.2E","117.2E","117.3E","117.3E","117.4E"
+
+Symbol legend:
+E, use with caution
+
+
+
+
+Footnotes:
+1,"This table replaces table 18-10-0052 which was archived with the release of January 2017 data. Data for periods prior to December 2016 were obtained by linking the current New Housing Price Index (NHPI) series, where possible, to indexes in table 18-10-0052."
+2,"Beginning in December 2016, several changes have been made to the New Housing Price Index (NHPI). The census metropolitan areas (CMAs) of Kelowna, Guelph, Trois-Rivières and Sherbrooke are included in the NHPI basket. Separate indexes are published for the census metropolitan areas (CMAs) of Toronto, Oshawa, Ottawa-Gatineau (Ontario part), Ottawa-Gatineau (Quebec part) and Greater Sudbury. The New Housing Price Index no longer includes Thunder Bay."
+3,"The index base period, for which the New Housing Price Index (NHPI) equals 100, is December 2016."
+4,"New Housing price indexes denoted with the data quality indicator “E”, should be used with caution."
+5,"This table partially replaces 18100169 which has been archived."
+
+
+
+"How to cite: Statistics Canada. Table 18-10-0205-01  New housing price index, monthly"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810020501
